@@ -1,1 +1,2 @@
-# JavaScript_2025.04.26
+# Study JavaScript
+  - strick mode
